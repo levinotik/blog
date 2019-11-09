@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://levinotik.com/categories/</loc>
+    <loc>http://levinotik.com/</loc>
+    <lastmod>2019-11-09T16:06:46-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://levinotik.com/</loc>
+    <loc>http://levinotik.com/posts/my-first-post/</loc>
+    <lastmod>2019-11-09T16:06:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://levinotik.com/posts/</loc>
+    <lastmod>2019-11-09T16:06:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://levinotik.com/categories/</loc>
   </url>
   
   <url>
